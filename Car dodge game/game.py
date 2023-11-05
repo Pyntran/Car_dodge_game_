@@ -1,7 +1,7 @@
 import random
 from pygame.locals import *
-from Car_dodge_game.game_variable import *
-from Car_dodge_game.car import Vehicle, PlayerCar
+from game_variable import *
+from car import Vehicle, PlayerCar
 
 vehicle_group = pygame.sprite.Group()
 player_group = pygame.sprite.Group()
