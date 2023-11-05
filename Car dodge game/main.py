@@ -1,5 +1,5 @@
 import pygame
-from Car_dodge_game.game import Game
+from game import Game
 
 pygame.init()
 
